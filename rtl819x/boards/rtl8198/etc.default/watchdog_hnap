@@ -1,0 +1,13 @@
+#!/bin/sh
+
+while sleep 10
+do
+HNAPCHECK=`ps -aux | grep act_hnap | wc -l`
+
+if  [ $HNAPCHECK -le 1 ] ; then
+    echo "hnap is not running ..."  
+    act_hnap &
+fi
+done
+
+

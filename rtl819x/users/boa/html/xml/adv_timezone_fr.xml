@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<pages>
+	<page> 
+<!-- 0-5 -->	
+		<t>Fuseau horaire</t>
+		<t>1. Veuillez sélectionner votre   ( Heure actuelle:</t>
+		<t>Heure du Pacifique</t>
+		<t>Heure des Rocheuses</t>
+		<t>Heure du Centre</t>
+		<t>Heure de l'Est</t>
+<!--6-10-->
+		<t>Heure avancée</t>
+		<t>Appliquer</t>
+	</page>
+</pages>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<pages>
+	<page> 
+<!-- 0-5 -->	
+		<t>Time Zone</t>
+		<t>1. Please select your Time Zone   ( Current Time:</t>
+		<t>Pacific Time</t>
+		<t>Mountain Time</t>
+		<t>Central Time</t>
+		<t>Eastern Time</t>
+<!--6-10-->
+		<t>Day Light Saving </t>
+		<t>Apply</t>
+	</page>
+</pages>
